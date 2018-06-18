@@ -9,4 +9,7 @@
   <action id="ShelvedChanges.Rename">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="XDebugger.CopyPath">
+    <mouse-shortcut keystroke="button2 doubleClick" />
+  </action>
 </keymap>
