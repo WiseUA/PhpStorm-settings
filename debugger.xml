@@ -1,7 +1,8 @@
 <application>
   <component name="XDebuggerSettings">
     <data-views>
-      <sort-values>true</sort-values>
+      <option name="showValuesInline" value="false" />
+      <show-values-inline>false</show-values-inline>
     </data-views>
     <general />
     <debuggers>
