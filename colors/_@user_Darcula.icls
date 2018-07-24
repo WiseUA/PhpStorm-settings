@@ -4,7 +4,7 @@
     <property name="created">2017-06-27T12:33:48</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2018-07-23T22:26:07</property>
+    <property name="modified">2018-07-24T23:50:34</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -37,6 +37,11 @@
     <option name="VISUAL_INDENT_GUIDE" value="3c1a1d" />
   </colors>
   <attributes>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="313131" />
+      </value>
+    </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value>
         <option name="BACKGROUND" value="1a1a1a" />
