@@ -12,6 +12,7 @@
       <mapping pattern="ads" type="PLAIN_TEXT" />
       <mapping pattern="mysql" type="PLAIN_TEXT" />
       <mapping ext="inc:" type="Perl" />
+      <mapping ext="env" type="YAML" />
     </extensionMap>
   </component>
 </application>
