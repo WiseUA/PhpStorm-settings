@@ -10,4 +10,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="dbg" value="echo '&lt;pre&gt;' . print_r( $end$, true) . '&lt;/pre&gt;';" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
