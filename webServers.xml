@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="a4834c27-6033-40e9-a723-349579f96239" name="pp-erafp" url="http://217.114.202.149">
+        <fileTransfer host="217.114.202.149" port="22" rootFolder="/var/www/erafp/wwwroot" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
