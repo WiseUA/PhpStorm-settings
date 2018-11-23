@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../wwwroot/modules/custom/apia_views [apia]'" />
-    <option name="defaultScopeName" value="Directory '.../wwwroot/modules/custom/apia_views [apia]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../wwwroot/modules/custom/apia_views [apia]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
