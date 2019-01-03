@@ -2,4 +2,7 @@
   <action id="Tool_External Tools_phpcbf">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="XDebugger.CopyPath">
+    <mouse-shortcut keystroke="button2 doubleClick" />
+  </action>
 </keymap>
