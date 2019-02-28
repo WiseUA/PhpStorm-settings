@@ -17,5 +17,6 @@
     <mask>*.php</mask>
     <mask>*.routing.yml</mask>
     <mask>*.contextual.yml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>

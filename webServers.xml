@@ -17,6 +17,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="1b2279b0-a880-49f8-ad99-a53db836e7e7" name="quiz-ccfd-terresolidaire-PREPROD" url="http://dev2.hopening.fr/2019/quiz-ccfd-terresolidaire">
+        <fileTransfer host="dev2.hopening.fr" port="22" rootFolder="/www/2019/quiz-ccfd-terresolidaire/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
