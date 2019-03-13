@@ -2,7 +2,7 @@
   <component name="UISettings">
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="FONT_FACE" value="Roboto Regular" />
-    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="MAX_LOOKUP_WIDTH2" value="791" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
