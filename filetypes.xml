@@ -8,6 +8,7 @@
       <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping pattern="deploy" type="PLAIN_TEXT" />
+      <mapping pattern="Plugin/WebformHandler/SendinblueWebformHandler" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
     </extensionMap>
