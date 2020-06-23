@@ -11,6 +11,7 @@
       <mapping ext="theme" type="PHP" />
       <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
+      <mapping pattern="makefile" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
     </extensionMap>
   </component>
