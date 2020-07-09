@@ -2,4 +2,12 @@
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="alt f8" />
   </action>
+  <action id="IntroduceConstant" />
+  <action id="TodoViewGroupByFlattenPackage" />
+  <action id="Tool_External Tools_phpcbf">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="XDebugger.CopyName">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
 </keymap>
