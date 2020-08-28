@@ -21,4 +21,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="fem" value="$form['glider_settings']['$SELECTED$'] = [&#10;  '#type' =&gt; 'textfield',&#10;  '#title' =&gt; $this-&gt;t('$SELECTED$'),&#10;  '#description' =&gt; '',&#10;  '#default_value' =&gt; $this-&gt;options['$SELECTED$'],&#10;];" toReformat="false" toShortenFQNames="true">
+    <variable name="SELECTED" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
