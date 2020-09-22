@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
   <tool name="phpcbf" description="Fix PHP" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/.composer/vendor/bin/phpcbf" />
-      <option name="PARAMETERS" value="--standard=/home/wise/.composer/vendor/drupal/coder/coder_sniffer/Drupal $FileDir$/$FileName$" />
+      <option name="COMMAND" value="$USER_HOME$/.config/composer/vendor/bin/phpcbf" />
+      <option name="PARAMETERS" value="--standard=/home/ymudriy/.config/composer/vendor/drupal/coder/coder_sniffer/Drupal $FileDir$/$FileName$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
