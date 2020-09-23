@@ -19,7 +19,7 @@
     <mask>*.routing.yml</mask>
     <mask>*.contextual.yml</mask>
     <mask>*.yml</mask>
-    <mask>*.js</mask>
     <mask>*.json</mask>
+    <mask>*.js</mask>
   </component>
 </application>
