@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy 1" parent="Default for XWin">
+<keymap version="1" name="KDE copy" parent="Default for KDE">
   <action id="Tool_External Tools_phpcbf">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
