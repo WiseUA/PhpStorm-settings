@@ -1,5 +1,5 @@
 <templateSet group="Twig">
-  <template name="tval" value="{{ values.$VAR$ }}" toReformat="false" toShortenFQNames="true">
+  <template name="tval" value="{{ values.$VAR$ }}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="clipboard()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Twig" value="true" />
