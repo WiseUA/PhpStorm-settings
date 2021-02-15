@@ -15,9 +15,9 @@
     <mask>*.contextual.yml</mask>
     <mask>*.json</mask>
     <mask>*media*.yml</mask>
-    <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
