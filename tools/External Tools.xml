@@ -8,21 +8,21 @@
   </tool>
   <tool name="lando drush cr" description="drush cr" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="/usr/local/bin/lando" />
+      <option name="COMMAND" value="/usr/bin/lando" />
       <option name="PARAMETERS" value="drush cr" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="lando start" description="lando start" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="/usr/local/bin/lando" />
+      <option name="COMMAND" value="/usr/bin/lando" />
       <option name="PARAMETERS" value="start" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="lando rebuild" description="lando rebuild" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="/usr/local/bin/lando" />
+      <option name="COMMAND" value="/usr/bin/lando" />
       <option name="PARAMETERS" value="rebuild" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
