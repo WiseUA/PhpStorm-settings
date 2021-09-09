@@ -3,14 +3,13 @@
     <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
     <option name="premium" value="true" />
-    <option name="darkTitleBar" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="indicatorStyle" value="Dot" />
-    <option name="accentColor" value="ff9800" />
+    <option name="accentColor" value="ffd866" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="267b39bf:1658122650e:-7fff" />
     <option name="version" value="6.7.2" />
   </component>

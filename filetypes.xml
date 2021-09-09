@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="src/Controller/CommentController" type="AUTO_DETECTED" />
       <mapping pattern="MakeFile" type="AUTO_DETECTED" />
+      <mapping pattern="src/Controller/CommentController" type="AUTO_DETECTED" />
       <mapping pattern="DockerFile" type="Dockerfile" />
       <mapping ext="info" type="Ini" />
       <mapping ext="geojson" type="JSON" />
@@ -11,9 +11,9 @@
       <mapping ext="engine" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping ext="db" type="SQL" />
     </extensionMap>
   </component>
